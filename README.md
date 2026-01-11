@@ -1,2 +1,15 @@
-# CreditWiseLoanSystem
-A machine learning–based loan approval prediction system using Logistic Regression, KNN, and Naive Bayes, deployed as an interactive Streamlit web application.
+## CreditWise – Intelligent Loan Approval System
+
+This project uses machine learning models to predict loan approval outcomes based on applicant data.
+The application is deployed using Streamlit and allows users to compare predictions across multiple models.
+
+### Tech Stack
+- Python
+- Scikit-learn
+- Streamlit
+- NumPy, Pandas
+
+### Models Used
+- Logistic Regression
+- KNN
+- Naive Bayes
